@@ -1,6 +1,6 @@
 # Atividade de web1 
 
-## Nome: Jose Luis da Silva Baltazar
+## Nome: José Luis da Silva Baltazar
 
 [Atividade 01](https://zezim17.github.io/atividade-01/)
 
