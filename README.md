@@ -2,7 +2,7 @@
 
 ## Nome: Jose Luis da Silva Baltazar
 
-[Atividade 01](https://github.com/zezim17/atividade01)
+[Atividade 01](https://zezim17.github.io/atividade-01/)
 
 
 [atividade 02](https://zezim17.github.io/atividade2)
